@@ -31,8 +31,8 @@ CONSTRAINTS\
 1⩽w,h⩽7\
 \
 EXAMPLE\
-Input             Output\
-0 0               5 5\
+Input_____________Output\
+0 0_______________5 5\
 5 0\
 6 1\
 75555d

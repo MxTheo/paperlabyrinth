@@ -5,7 +5,7 @@ See the app: https://alicelabyrinth-sandbox.mxapps.io/
 
 https://www.codingame.com/training/medium/paper-labyrinth
 
-GOAL
+GOAL\n
 You are Alice and you must find the rabbit then go out of the Queen’s labyrinth of death as quickly as you can.
 The labyrinth is made of thin walls, each wall is binary-coded in each cell: 1 is the the down wall, 2 the left wall, 4 the top wall and 8 the right wall. If the wall is present, add its number to the cell. For example, 10=8+2 in a cell where you stand means that there are walls on your left and on your right and that you can walk downwards and upwards.
 This also means that one-way doors are not forbidden. Look for instance at 10 5, if you are on 5, you can go on 10 but you can’t go back.
